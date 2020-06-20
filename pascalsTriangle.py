@@ -4,13 +4,15 @@ def fact(n):
     else:
         return n * fact(n-1)
 
-def pascals_triangle(r):
-    for n in range(r):
-        a = fact(n)
-        b = fact(r)
-        c = n-r
-        print(c)
-        d = fact(c)
-        print(a,b,d)
+def pascals_triangle(i):
+    if type(i)!=int or i<=0:
+        return "Input must be positive and an integer!"
+    result = []
+    for n in range(i):
+        for r in range(n+1):
+            result.append(int(fact(n)/(fact(r)*fact(n-r))))
+    
+    return result
 
-pascals_triangle(4)
+for i in range(10):
+    print(pascals_triangle(i))
