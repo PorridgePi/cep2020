@@ -8,7 +8,7 @@ def egged(year, span):
         if currentYear >= span:
             break
 
-        print(chickens)
+#        print(chickens)
 
         for i in range(3*currentYear):
             i += 1
