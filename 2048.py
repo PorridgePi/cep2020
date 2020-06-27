@@ -16,15 +16,6 @@ def reverse(state):
     return newState
 
 
-def printBoard(state):
-    for i in state:
-        for item in i:
-            print(item, end='\t')
-        print()
-    print()
-
-
-
 def moveLeft(state):
     newState = [[], [], [], []]
     for l in range(len(state)):
@@ -49,15 +40,22 @@ def moveLeft(state):
 
 
 def move(state, direction):
-        if direction == 'left':
-            return moveLeft(state)
-        elif direction == 'right':
-            return reverse(moveLeft(reverse(state)))
-        elif direction == 'up':
-            return transpose(moveLeft(transpose(state)))
-        elif direction == 'down':
-            return transpose(reverse(moveLeft(reverse(transpose(state)))))
+    if direction == 'left':
+        return moveLeft(state)
+    elif direction == 'right':
+        return reverse(moveLeft(reverse(state)))
+    elif direction == 'up':
+        return transpose(moveLeft(transpose(state)))
+    elif direction == 'down':
+        return transpose(reverse(moveLeft(reverse(transpose(state)))))
 
+
+def printBoard(state):
+    for i in state:
+        for item in i:
+            print(item, end='\t')
+        print()
+    print()
 
 
 def main():
@@ -72,4 +70,4 @@ state = [
 ]
 
 printBoard(state)
-printBoard(move(state,'down'))
+printBoard(move(state, 'down'))
