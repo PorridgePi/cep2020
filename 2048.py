@@ -26,11 +26,11 @@ def moveLeft(state):
                 newState[l].append(j[i]*2)
                 prevNum = None
             else:
-                if prevNum != None:
+                if prevNum is not None:
                     newState[l].append(prevNum)
                 prevNum = j[i]
 
-            if (i + 1) == len(j) and prevNum != None:
+            if (i + 1) == len(j) and prevNum is not None:
                 newState[l].append(prevNum)
 
         for i in range(4):
@@ -58,16 +58,42 @@ def printBoard(state):
     print()
 
 
+def string2matrix(string):
+    result = [[], [], [], []]
+    strs = string.replace('[', '').split('],')
+    state = [map(int, s.replace(']', '').split(',')) for s in strs]
+    for i in range(len(state)):
+        for j in state[i]:
+            result[i].append(j)
+    return result
+
+
+def test():
+    state = [
+        [2, 2, 2, 2],
+        [4, 16, 4, 2],
+        [2, 64, 64, 4],
+        [1024, 1024, 64, 0]
+    ]
+
+    state = [[2, 2, 2, 2], [4, 16, 4, 2], [2, 64, 64, 4], [1024, 1024, 64, 0]]
+
+    printBoard(state)
+    printBoard(move(state, 'down'))
+
+
 def main():
-    pass
+    string = input('Please enter an initial list to start the game.\n>>> ')
+    state = string2matrix(string)
+    print('\nThis is the original state:')
+    printBoard(state)
+
+    direction = input('Which direction do you want to move? [up, down, left, right]\n>>> ')
+    newState = move(state, direction)
+
+    print('\nThis is the new state:')
+    printBoard(newState)
 
 
-state = [
-    [2, 2, 2, 2],
-    [4, 16, 4, 2],
-    [2, 64, 64, 4],
-    [1024, 1024, 64, 0]
-]
-
-printBoard(state)
-printBoard(move(state, 'down'))
+if __name__ == "__main__":
+    main()
