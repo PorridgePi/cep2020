@@ -11,4 +11,4 @@ def get_score(l):
     return score
 
 
-print(get_score([4, 2, 2, 3, 3, 4, 2]))
+print(get_score([4, 2, 2, 3, 3, 4, 4]))
