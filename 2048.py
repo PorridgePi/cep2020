@@ -1,3 +1,12 @@
+
+def transpose(matrix):
+    result = []
+    for i in range(len(matrix[0])):
+        new.append([])
+        for j in range(len(matrix)):
+            new[i].append(matrix[j][i])
+    return result
+
 def printBoard(state):
     for i in state:
         for item in i:
@@ -6,7 +15,10 @@ def printBoard(state):
 
 
 def move(state, direction):
-    
+    if direction == 'up':
+
+    for i in range(4):
+
     pass
 
 
