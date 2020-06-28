@@ -65,7 +65,14 @@ def string2matrix(string):
     for i in range(len(state)):
         for j in state[i]:
             result[i].append(j)
+    checkMatrix(result)
     return result
+
+
+def checkMatrix(state):
+    for i in state:
+        if len(i) != 4:
+            raise MemoryError
 
 
 def test():
@@ -83,16 +90,29 @@ def test():
 
 
 def main():
-    string = input('Please enter an initial list to start the game.\n>>> ')
-    state = string2matrix(string)
-    print('\nThis is the original state:')
-    printBoard(state)
+    while True:
+        string = input('Please enter an initial list to start. Press ENTER to quit.\n>>> ')
+        if string == '':
+            break
 
-    direction = input('Which direction do you want to move? [up, down, left, right]\n>>> ')
-    newState = move(state, direction)
+        state = None
+        while state is None:
+            try:
+                state = string2matrix(string)
+            except:
+                string = input('Please enter a valid list.\n>>> ')
 
-    print('\nThis is the new state:')
-    printBoard(newState)
+        print('\nThis is the original state:')
+        printBoard(state)
+
+        direction = input('Which direction do you want to move? [up, down, left, right]\n>>> ')
+        while direction not in ['up', 'down', 'left', 'right']:
+            direction = input('Please enter a valid direction! [up, down, left, right]\n>>> ')
+
+        newState = move(state, direction)
+
+        print('\nThis is the new state:')
+        printBoard(newState)
 
 
 if __name__ == "__main__":
