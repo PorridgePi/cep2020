@@ -3,5 +3,3 @@ def sum_series(n):
         return n
     else:
         return n + sum_series(n-2)
-
-print(sum_series(11))
