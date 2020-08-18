@@ -1,0 +1,69 @@
+Documentation
+
+The game is about an adventurer who is looking for treasure in an abandoned dungeon full of monsters. To get to the treasure, he has to overcome several challenges, defeat enemies, upgrade his weapons and armor, and become more powerful.
+To control the adventurer, the player types in commands. There is a large variety of commands avaliable to the player. There are different commands avaliable when the player is fighting an enemy or in a shop. The map and the names of all rooms are shown below. (Note: The names of each room are not showed to the player. However, they make the identification of each room easier for me, the coder):
+
+                                                              shop     branch 1_1 - branch 1_2
+                                                               |           |
+(Your goal!) exitcorridor - Treasure Room - finalcorridor - junction2 - junction - [startRoom](Where you start)
+				                               |           | 
+                                                             mobfarm    branch 2_1
+
+
+All the different commands avaliable for use in all different scenarios are documented below (HP is basically health):
+
+Main game commands (When not Fighting or in shop):
+
+help > Display avaliable commands
+inventory > View your inventory
+quit > Quit the game
+hp > Display player HP
+w > Move upwards
+a > Move left
+s > Move downwards
+d > Move right
+dam > Displays weapon damage
+def > Displays armor defense
+admin > Activates a cheat which gives 9999 of each item, 9999 damage, 9999 defence and 9999 max health (When you're too bad at the game or hate grinding)
+
+Fight Commands:
+
+attack > Attack the enemy
+heal > Consume a health pot and heal 30HP
+guard > Will negate or reduce damage taken dealing some damage to the enemy
+hp > Displays player HP
+enem_hp > Displays the enemy's HP
+
+Shop commands:
+
+help > Display avaliable commands
+display > Shows the itemnumber and info of items on sale
+buy [itemnumber] > Buy an item. For Example, buy 2, buys an iron sabre
+quit > Leave the shop
+
+The position of the adventurer is shown to the player through showing them a map. This map is stored in an array known as scene which is manipulated and changed whenever the player gives the command to move. When the player touches a door, the map changes completely. A function called move(index, newindex, scene) is used whenever the command to move is given and determines the changes to the scene and what events are triggered. newindex is the position the adventurer is moving to and index is the previous position of the adventurer in the array "scene". For example, if array[newscene] is in a tuple "enemies" (B,G,T), the function fight() is called and brings up the fight menu. If array[newscene] is "S", which is a shopkeeper, the function shop() is called and the shop menu is brought up. All tiles and what they represent are listed below:
+
+All Tiles:
+
+A > Adventurer
+O > Old Man
+- > Blank Space
+| or ^ > Door
+# > Wall
+S > Shopkeeper
+C > Coin
+B > Bat
+T > Troll
+G > Goblin
+C > Treasure Chest
+
+Each tile is unique and has different effects when the player interacts with it.
+Some variables such as the inventory of the player, which is an array, and the damage values of each weapon and the defence values of each armor, which are both tuples, are declared as global variables for ease of access. There is also a global array known as gameOver which determines whether the game has ended and whether the player has won or not. gameOver[0] is a boolean. When gameOver[0] is True, the game ends. gameOver[1] is a string. It can either be "Win", "Lose' or "Nil". When the player quits the game without losing or winning, the value of gameOver[1] is "nil" and no text is displayed. When the player wins or loses, some text is shown before the player is asked whether they want to play again. If they want to play again, the function reset() is called to change the values of the global variables to their original values. All functions are placed inside a singular function main() which facilitates the entire game.
+
+main() first calls the function instruction() which prints the instructions. Then, we use a while loop which terminates when gameOver[0] == True. While gameOver[0] == False, we call the functions loadtile(scene), which prints the scene, followed by command(scene), which takes input from the player and does the necessary actions. Most other functions are inside command(). The last part of main() is a large amount of code which changes the scene whenever the player touches a door. There is also a small portion of code that is run after gameOver[0] == True, and prints the final dialogue of the game before asking if the player wished to replay.
+  
+Some difficulties I had were coding the change of scene. I kept having errors or the code refused to work. I also could not find a way to efficiently change the scene. Hence, adding a new room and connecting it to other rooms was tedious. I spent a lot of time on it and I could probably have added much more fun content to the game if I had allocated more time to the other aspects of the game rather than the change of scene.
+
+I am relatively satisfied with how my game turned out. I found no side effects or parts of the game I was unsatisfied with. I do however wish the monsters moved toward the adventurer ao that the player had to plan their movements and try to escape. I also wished to add more levels. However, my game still is relatively fleshed out. I hope you enjoy it.
+
+

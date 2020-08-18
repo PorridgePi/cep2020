@@ -1,0 +1,109 @@
+Did you save your previous game? (y/n) >>> y
+Input your username >>> alphapi
+Welcome back, alphapi.
+alphapi@ThinkPadX1C:~ $ playgame
+Welcome to the game, adventurer.
+
+You found a treasure box on this island, but you could not find the key to open it yet.
+
+There are four locations on this island, namely the beach, forest, house and the cave.
+
+Your goal is to find the key.
+
+You can move around by entering: go [location]
+There may be creatures on this island that will attack you.
+You can defend yourself by killing the creature using the command: kill [creature]
+
+After finding the key, you can continue to explore the island, or exit the game.
+
+To view help, you can enter: help.
+
+Have fun!
+
+
+You are in the house.
+
+>>> find key
+
+You walked around the house.
+There was a tiny hole on the ground.
+You peeked into it and saw something.
+You realised that it was simply an ant.
+
+>>> kill
+
+
+>>> see
+
+You looked around.
+There was nothing in the house.
+
+>>> go beach
+
+You arrived at the beach.
+You saw something stuck into the sand.
+
+>>> find key
+
+You took a closer look at the thing in the sand.
+It was just a twig.
+
+>>> go cave
+
+You entered the cave.
+You saw a gigantic cross on the floor.
+
+>>> find keyu
+
+keyu not recognised!
+
+>>> find key
+
+You decided to dig a hole at the location of the cross.
+There was nothing.
+
+>>> go forest
+
+You entered the forest.
+You saw a thing hanging down from the tree.
+
+>>> find key
+
+You took a closer look at the thing hanging down from the tree.
+It was shiny and brown in colour.
+CONGRATULATION! You found the key!
+
+>>> kill me
+
+
+You killed yourself. You died!
+However, you found the key of the value XJRymAyVNs.
+You technically won the game! Goodbye!
+alphapi@ThinkPadX1C:~ $ cd /home/Prof
+alphapi@ThinkPadX1C:/home/Prof $ cat backup.txt
+w4XCssKpw4DDgMKow57CmsKew6zDiQ==
+alphapi@ThinkPadX1C:/home/Prof $ retreivepass
+retreivepass: command not found
+alphapi@ThinkPadX1C:/home/Prof $ retrievepass
+This command does NOT find the password for you.
+Instead, it helps you to decrypt the password
+using the encrypted password and the key, which you need to find.
+Do you understand? (y/n)
+>>>y
+Please enter the encrypted password that you found.
+>>> w4XCssKpw4DDgMKow57CmsKew6zDiQ==
+Please enter the key that you found.
+>>>XJRymAyVNs
+Here is the root password decrypted from the information you provided.
+mhWGSgeDPyq
+alphapi@ThinkPadX1C:/home/Prof $ rm -r /bin
+rm: cannot remove '/bin': Permission denied
+alphapi@ThinkPadX1C:/home/Prof $ sudo rm -r /bin
+[sudo] password for alphapi: mhWGSgeDPyq
+You have successfully hacked this computer.
+It is now broken.
+Therefore, you completed your task.
+In short, YOU WON!
+
+Game stopped. Do you want to save the game? (y/n) >>> n
+Game NOT saved. Press the Enter key to shutdown...mhWGSgeDPyq

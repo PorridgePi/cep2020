@@ -1,0 +1,70 @@
+In my opinion, this RPG game is rather different as compared to the other traditional RPG games which the player is usually in a physical world. 
+My RPG game, however, happens entirely in the Linux terminal. Inside the terminal, there is another traditional RPG game, which provides clues 
+to complete the first RPG game.
+
+My RPG game is based in a Linux terminal, which I replicated with python. In the game, the player is a hacker, also known as an agent, and have
+to hack the computer through the terminal. The main objective of the game is to delete the /bin directory, which can cause great problems on a 
+real Linux machine. There are clues hidden in the OS, with an encrypted password stored in the home folder of the owner, and a key, to decrypt the
+password, hidden in an RPG game.
+
+I faced many challenges while trying to make this game, including creating the operating system (or the filesystem), encrypting the important 
+data such as the key and the password, and lastly saving the game data to the computer.
+
+The first challenge of creating and manipulating the filesystem is the hardest to overcome. I did not know how to create a working filesystem
+that has directories and can be manipulated easily. I overcame this challenge by using a dictionary as a directory, which many dictionaries in
+one another. I managed to manipluate the dictionary manually with each command. It was extremely difficult and tiring to find each and every bug
+present in the program.
+
+Next comes the challenge of encryption and decryption. If I did not encrypt the data, the game would not work, and the player can easily find 
+the password in the saved files. I referred to a algorithm I found on Google that allows encryption of a string with a key and adapted it into my
+own program.
+
+The last challenge is saving the game data to the computer. While this may not be really required or important, I felt that a saved game can 
+improve the player's experience with the game. To overcome this challenge, I discovered two modules, namely pickle and shelve, and used them 
+together to save the data. I used shelve to save the filesystem, which is a dictionary, and pickle to save the credentials as I call them, or
+the encrypted key and password.
+
+This project had allowed me to learn much as this is the longest and hardest project that I have ever done. 
+
+Firstly, I learnt about the importance of defining functions. While I knew about defining functions and using them, I only thought that it would
+organise my code and make my it look neater. However, in this project, I used functions repetitively, drastically shortening and simplifying my
+code.
+
+Secondly, I learnt about the importance of commenting my own code as I program. This time, I commentted all my code after finishing the game.
+It spent a long time. Thus, I now know that I should comment the code while I write the code, which can increase readablity, and also reduce time
+spent on commenting.
+
+Thirdly, while this may not seem like a very big learning point, it still mattered to me. I learnt that I could run a function in a dictionary.
+For example, I defined a function named eat and I have a dictionary named dict, with the content: {"eat":eat}. I learnt that I could simply run
+dict["eat"] and the function eat will run.
+
+While there may be more learning points, I feel that these three are the most important and impacted me the most.
+
+To be honest, I feel that the game could be better done. For example, the RPG game included could be more fun. However, since I spent all my time
+fine-tuning the Linux terminal, I did not have time to improve the other things. I also feel that the help and guiding messages could be better, 
+but due to my bad English and phrasing, that was not possible.
+
+P.S. If you can not complete my game, scroll done to see a hint.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Try finding the encrypted password in /home/Profs and killing yourself in the RPG game after finding the key.

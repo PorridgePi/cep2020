@@ -1,0 +1,305 @@
+
+What do you want your username to be? porridge
+
+Welcome back, Agent porridge!
+
+You are back on another mission.
+
+Your goal today is to hack this computer, which is running Linux.
+By deleting the /bin folder on this computer, everything will stop fuctioning properly.
+Therefore, you just need to delete the /bin folder.
+
+However, no matter what you do, you must find the root password.
+
+According to our intelligence, the owner saved a copy of his password in his personal home folder.
+However, it is encrypted.
+
+Our intelligence also discovered that the owner enjoyed making text-based RPG games.
+We could not guarantee but there may be clues to decrypt the password in the game.
+
+To make it easier for you, we had included a copy of his game in your account.
+You can play the game by entering the command: playgame.
+
+We had also included a copy of our specialised decrypter.
+After finding the key and the encrypted password, you can use it to decrypt the final root password.
+You can use it by entering the command: retrievepass
+
+Since this computer is running Linux, you need to know the Linux syntax.
+You can find more information and help about the basic syntax by entering the commmand: help.
+
+That's all. All the best!
+
+porridge@ThinkPadX1C:~ $ \playgame
+\playgame: command not found
+porridge@ThinkPadX1C:~ $ hel[
+hel[: command not found
+porridge@ThinkPadX1C:~ $ help
+
+These are the in-game commands and aliases:
+
+>>  help
+        views this help
+>>  exit
+        exits the game
+>>  retrievepass
+        opens the decrypter to decrypt the password
+>>  playgame
+        plays the game made by the owner of this computer
+
+The following are usage of the basic commands in Linux and its functions:
+
+>>  ls
+        lists the files and directories present in the current directory
+>>  cd
+        change directory
+    Usage:
+        cd [DIRECTORY or PATH]
+        cd ..
+            goes to the previous directory
+>>  mkdir
+        make directory (a.k.a. folder)
+    Usage:
+        mkdir [DIRECTORY or PATH]
+>>  sudo
+        run command with elevated privileges
+    Usage:
+        sudo [COMMAND] ...
+>>  cat
+        views the contet of file(s)
+    Usage:
+        cat [FILE]
+>>  rm
+        removes file or directory
+    Usage:
+        rm [OPTION]... [FILE]...
+        OPTION:
+            -r  remove directories and their contents recursively
+                (used to remove directories)
+
+porridge@ThinkPadX1C:~ $ ls
+Contents of directory /home/porridge:
+help.txt
+porridge@ThinkPadX1C:~ $ cat help.txt
+
+These are the in-game commands and aliases:
+
+>>  help
+        views this help
+>>  exit
+        exits the game
+>>  retrievepass
+        opens the decrypter to decrypt the password
+>>  playgame
+        plays the game made by the owner of this computer
+
+The following are usage of the basic commands in Linux and its functions:
+
+>>  ls
+        lists the files and directories present in the current directory
+>>  cd
+        change directory
+    Usage:
+        cd [DIRECTORY or PATH]
+        cd ..
+            goes to the previous directory
+>>  mkdir
+        make directory (a.k.a. folder)
+    Usage:
+        mkdir [DIRECTORY or PATH]
+>>  sudo
+        run command with elevated privileges
+    Usage:
+        sudo [COMMAND] ...
+>>  cat
+        views the contet of file(s)
+    Usage:
+        cat [FILE]
+>>  rm
+        removes file or directory
+    Usage:
+        rm [OPTION]... [FILE]...
+        OPTION:
+            -r  remove directories and their contents recursively
+                (used to remove directories)
+
+porridge@ThinkPadX1C:~ $ cd /
+porridge@ThinkPadX1C:/ $ rm bin
+rm: cannot remove 'bin': Is a directory
+porridge@ThinkPadX1C:/ $ rm -r bin
+rm: cannot remove 'bin': Permission denied
+porridge@ThinkPadX1C:/ $ playgame
+Welcome to the game, adventurer.
+
+You found a treasure box on this island, but you could not find the key to open it yet.
+
+There are four locations on this island, namely the beach, forest, house and the cave.
+
+Your goal is to find the key.
+
+You can move around by entering: go [location]
+There may be creatures on this island that will attack you.
+You can defend yourself by killing the creature using the command: kill [creature]
+
+After finding the key, you can continue to explore the island, or exit the game.
+
+To view help, you can enter: help.
+
+Have fun!
+
+
+You are in the house.
+
+>>> hekp
+
+hekp: command not found
+
+>>> help
+
+You goal is to find the key.
+Possible Commands:
+        go [location]   => to go to a location
+        kill [creature] => to kill a creature, including yourself!
+                           (Maybe try killing yourself?)
+        exit            => to exit the game
+        see             => to look around
+        find [item]     => to find an item
+        help            => to view this help
+
+
+>>> go
+
+ERROR: Too many arguments!
+
+>>> find
+
+ not recognised!
+
+>>> find key
+
+You walked around the house.
+There was a tiny hole on the ground.
+You peeked into it and saw something.
+You realised that it was simply an ant.
+
+>>> go beac
+
+ERROR: Location not found
+
+>>> go beach
+
+You arrived at the beach.
+You saw something stuck into the sand.
+
+>>> find key
+
+You took a closer look at the thing in the sand.
+It was just a twig.
+
+>>> go cave
+
+You entered the cave.
+You saw a gigantic cross on the floor.
+
+>>> find key
+
+You decided to dig a hole at the location of the cross.
+Something appeared.
+It was shiny and brown in colour.
+CONGRATULATION! You found the key!
+
+>>> exit
+
+You technically won the game! Goodbye!
+porridge@ThinkPadX1C:/ $ od
+od: command not found
+porridge@ThinkPadX1C:/ $ cd /home
+porridge@ThinkPadX1C:/home $ ls
+Contents of directory /home:
+porridge
+Prof
+porridge@ThinkPadX1C:/home $ cd Prof
+porridge@ThinkPadX1C:/home/Prof $ ls
+Contents of directory /home/Prof:
+backup.txt
+porridge@ThinkPadX1C:/home/Prof $ cat backup.txt
+wpLCnMK4w5vDh8OTwpTCsA==
+porridge@ThinkPadX1C:/home/Prof $ playgame
+Welcome to the game, adventurer.
+
+You found a treasure box on this island, but you could not find the key to open it yet.
+
+There are four locations on this island, namely the beach, forest, house and the cave.
+
+Your goal is to find the key.
+
+You can move around by entering: go [location]
+There may be creatures on this island that will attack you.
+You can defend yourself by killing the creature using the command: kill [creature]
+
+After finding the key, you can continue to explore the island, or exit the game.
+
+To view help, you can enter: help.
+
+Have fun!
+
+
+You are in the house.
+
+>>> find key
+
+You walked around the house.
+There was a tiny hole on the ground.
+You peeked into it and saw something.
+You realised that it was simply an ant.
+
+>>> go beach
+
+You arrived at the beach.
+You saw something stuck into the sand.
+
+>>> find key
+
+You took a closer look at the thing in the sand.
+It was shiny and brown in colour.
+CONGRATULATION! You found the key!
+
+>>> kill me
+
+
+You killed yourself. You died!
+However, you found the key of the value LCMkcoPYwT.
+You technically won the game! Goodbye!
+porridge@ThinkPadX1C:/home/Prof $ retrievepass
+This command does NOT find the password for you.
+Instead, it helps you to decrypt the password
+using the encrypted password and the key, which you need to find.
+Do you understand? (y/n)
+>>>y
+Please enter the encrypted password that you found.
+>>> wpLCnMK4w5vDh8OTwpTCsA==
+Please enter the key that you found.
+>>>LCMkcoPYwT
+Here is the root password decrypted from the information you provided.
+FYkpddDW
+porridge@ThinkPadX1C:/home/Prof $ cd /
+porridge@ThinkPadX1C:/ $ rm -r bin
+rm: cannot remove 'bin': Permission denied
+porridge@ThinkPadX1C:/ $ sudo rm
+[sudo] password for porridge: FYkpddDW
+[sudo] password for porridge: FYkpddDW
+rm: missing operand
+Usage: rm [OPTION]... [FILE]...
+  -r    remove directories and their contents recursively
+porridge@ThinkPadX1C:/ $ sudo rm bin
+[sudo] password for porridge: FYkpddDW
+rm: cannot remove 'bin': Is a directory
+porridge@ThinkPadX1C:/ $ sudo rm -r bin
+[sudo] password for porridge: FYkpddDW
+[sudo] password for porridge: FYkpddDW
+You have successfully hacked this computer.
+It is now broken.
+Therefore, you completed your task.
+In short, YOU WON!
+
+Game stopped. Do you want to save the game? (y/n) >>> y
+Game saved. Press the Enter key to shutdown...^A

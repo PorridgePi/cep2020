@@ -1,0 +1,276 @@
+What do you want your username to be? peopeop
+
+Welcome back, Agent peopeop!
+
+You are back on another mission.
+
+Your goal today is to hack this computer, which is running Linux.
+By deleting the /bin folder on this computer, everything will stop fuctioning properly.
+Therefore, you just need to delete the /bin folder.
+
+However, no matter what you do, you must find the root password.
+
+According to our intelligence, the owner saved a copy of his password in his personal home folder.
+However, it is encrypted.
+
+Our intelligence also discovered that the owner enjoyed making text-based RPG games.
+We could not guarantee but there may be clues to decrypt the password in the game.
+
+To make it easier for you, we had included a copy of his game in your account.
+You can play the game by entering the command: playgame.
+
+We had also included a copy of our specialised decrypter.
+After finding the key and the encrypted password, you can use it to decrypt the final root password.
+You can use it by entering the command: retrievepass
+
+Since this computer is running Linux, you need to know the Linux syntax.
+You can find more information and help about the basic syntax by entering the commmand: help.
+
+That's all. All the best!
+
+peopeop@ThinkPadX1C:~ $ playgame
+Welcome to the game, adventurer.
+
+You found a treasure box on this island, but you could not find the key to open it yet.
+
+There are four locations on this island, namely the beach, forest, house and the cave.
+
+Your goal is to find the key.
+
+You can move around by entering: go [location]
+There may be creatures on this island that will attack you.
+You can defend yourself by killing the creature using the command: kill [creature]
+
+After finding the key, you can continue to explore the island, or exit the game.
+
+To view help, you can enter: help.
+
+Have fun!
+
+
+You are in the house.
+
+>>> go beach
+
+You arrived at the beach.
+You saw something stuck into the sand.
+
+>>> see
+
+You looked around.
+You saw something stuck into the sand.
+
+>>> find key
+
+You took a closer look at the thing in the sand.
+It was shiny and brown in colour.
+CONGRATULATION! You found the key!
+
+>>> go house
+
+You entered the house.
+There was nothing in the house.
+
+>>> help
+
+You goal is to find the key.
+Possible Commands:
+        go [location]   => to go to a location
+        kill [creature] => to kill a creature, including yourself!
+                           (Maybe try killing yourself?)
+        exit            => to exit the game
+        see             => to look around
+        find [item]     => to find an item
+        help            => to view this help
+
+
+>>> exit
+
+You technically won the game! Goodbye!
+peopeop@ThinkPadX1C:~ $ ls
+Contents of directory /home/peopeop:
+help.txt
+peopeop@ThinkPadX1C:~ $ help
+
+These are the in-game commands and aliases:
+
+>>  help
+        views this help
+>>  exit
+        exits the game
+>>  retrievepass
+        opens the decrypter to decrypt the password
+>>  playgame
+        plays the game made by the owner of this computer
+
+The following are usage of the basic commands in Linux and its functions:
+
+>>  ls
+        lists the files and directories present in the current directory
+>>  cd
+        change directory
+    Usage:
+        cd [DIRECTORY or PATH]
+        cd ..
+            goes to the previous directory
+>>  mkdir
+        make directory (a.k.a. folder)
+    Usage:
+        mkdir [DIRECTORY or PATH]
+>>  sudo
+        run command with elevated privileges
+    Usage:
+        sudo [COMMAND] ...
+>>  cat
+        views the contet of file(s)
+    Usage:
+        cat [FILE]
+>>  rm
+        removes file or directory
+    Usage:
+        rm [OPTION]... [FILE]...
+        OPTION:
+            -r  remove directories and their contents recursively
+                (used to remove directories)
+
+peopeop@ThinkPadX1C:~ $ cd ..
+peopeop@ThinkPadX1C:/home $ cd ..
+peopeop@ThinkPadX1C:/ $ ls
+Contents of directory /:
+bin
+boot
+dev
+etc
+home
+lib
+opt
+sbin
+srv
+tmp
+usr
+peopeop@ThinkPadX1C:/ $ help
+
+These are the in-game commands and aliases:
+
+>>  help
+        views this help
+>>  exit
+        exits the game
+>>  retrievepass
+        opens the decrypter to decrypt the password
+>>  playgame
+        plays the game made by the owner of this computer
+
+The following are usage of the basic commands in Linux and its functions:
+
+>>  ls
+        lists the files and directories present in the current directory
+>>  cd
+        change directory
+    Usage:
+        cd [DIRECTORY or PATH]
+        cd ..
+            goes to the previous directory
+>>  mkdir
+        make directory (a.k.a. folder)
+    Usage:
+        mkdir [DIRECTORY or PATH]
+>>  sudo
+        run command with elevated privileges
+    Usage:
+        sudo [COMMAND] ...
+>>  cat
+        views the contet of file(s)
+    Usage:
+        cat [FILE]
+>>  rm
+        removes file or directory
+    Usage:
+        rm [OPTION]... [FILE]...
+        OPTION:
+            -r  remove directories and their contents recursively
+                (used to remove directories)
+
+peopeop@ThinkPadX1C:/ $ rm bin
+rm: cannot remove 'bin': Is a directory
+peopeop@ThinkPadX1C:/ $ rm -r bin
+rm: cannot remove 'bin': Permission denied
+peopeop@ThinkPadX1C:/ $ las
+las: command not found
+peopeop@ThinkPadX1C:/ $ ls
+Contents of directory /:
+bin
+boot
+dev
+etc
+home
+lib
+opt
+sbin
+srv
+tmp
+usr
+peopeop@ThinkPadX1C:/ $ cd bin
+cd: cannot change directory: Permission denied
+peopeop@ThinkPadX1C:/ $ cd
+peopeop@ThinkPadX1C:/ $ cd home
+peopeop@ThinkPadX1C:/home $ ls
+Contents of directory /home:
+peopeop
+Prof
+peopeop@ThinkPadX1C:/home $ cd Prof
+peopeop@ThinkPadX1C:/home/Prof $ cat
+peopeop@ThinkPadX1C:/home/Prof $ cat Prof
+cat: Prof: No such file or directory
+peopeop@ThinkPadX1C:/home/Prof $ cd ..
+peopeop@ThinkPadX1C:/home $ cat Prof
+cat: Prof: Is a directory
+peopeop@ThinkPadX1C:/home $ ls Prof
+Contents of directory /home:
+peopeop
+Prof
+peopeop@ThinkPadX1C:/home $ help
+
+These are the in-game commands and aliases:
+
+>>  help
+        views this help
+>>  exit
+        exits the game
+>>  retrievepass
+        opens the decrypter to decrypt the password
+>>  playgame
+        plays the game made by the owner of this computer
+
+The following are usage of the basic commands in Linux and its functions:
+
+>>  ls
+        lists the files and directories present in the current directory
+>>  cd
+        change directory
+    Usage:
+        cd [DIRECTORY or PATH]
+        cd ..
+            goes to the previous directory
+>>  mkdir
+        make directory (a.k.a. folder)
+    Usage:
+        mkdir [DIRECTORY or PATH]
+>>  sudo
+        run command with elevated privileges
+    Usage:
+        sudo [COMMAND] ...
+>>  cat
+        views the contet of file(s)
+    Usage:
+        cat [FILE]
+>>  rm
+        removes file or directory
+    Usage:
+        rm [OPTION]... [FILE]...
+        OPTION:
+            -r  remove directories and their contents recursively
+                (used to remove directories)
+
+peopeop@ThinkPadX1C:/home $ cd Prof
+peopeop@ThinkPadX1C:/home/Prof $ sudo cat

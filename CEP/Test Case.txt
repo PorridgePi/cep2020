@@ -1,0 +1,4888 @@
+Welcome, brave adventurer.
+Your goal is to get to the end of this treacherous dungeon and collect the treasure there.
+
+Enemy and block index:
+
+A > Adventurer
+O > Old Man
+- > Blank Space
+| or ^ > Door
+# > Wall
+S > Shopkeeper
+C > Coin
+B > Bat
+T > Troll
+G > Goblin
+C > Treasure Chest
+
+=================================================
+
+      #     #     #     #     #     #     #            
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+|     B     -     -     -     #     A     O     #      
+
+#     -     -     -     -     -     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+      #     #     #     #     #     #     #            
+
+Type 'help' for avaliable commands.
+>>>> d
+
+You're an adventurer aren't you?
+
+Come to explore these dungeons?
+
+Well, I'm meant give you some advice before you go in so that you don't die a long, painful death.
+
+Before you go in, I have to give you some advice
+
+By now, you should have figured out you use commands to move and control yourself
+
+Try to fight monsters when you can, because they drop rubies which you can buy items with
+
+You'll have to use different commands when you are fighting a monster
+
+Just be careful to not get brutally murdered. Good luck
+
+=================================================
+
+      #     #     #     #     #     #     #            
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+|     B     -     -     -     #     -     A     #      
+
+#     -     -     -     -     -     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+      #     #     #     #     #     #     #            
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+      #     #     #     #     #     #     #            
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     #     A     #      
+
+|     B     -     -     -     #     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+      #     #     #     #     #     #     #            
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+      #     #     #     #     #     #     #            
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     A     #      
+
+#     -     -     -     -     -     #     -     #      
+
+|     B     -     -     -     #     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+      #     #     #     #     #     #     #            
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+      #     #     #     #     #     #     #            
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     A     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+|     B     -     -     -     #     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+      #     #     #     #     #     #     #            
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+      #     #     #     #     #     #     #            
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     A     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+|     B     -     -     -     #     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+      #     #     #     #     #     #     #            
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+      #     #     #     #     #     #     #            
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     A     -     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+|     B     -     -     -     #     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+      #     #     #     #     #     #     #            
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+      #     #     #     #     #     #     #            
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     A     -     -     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+|     B     -     -     -     #     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+      #     #     #     #     #     #     #            
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+      #     #     #     #     #     #     #            
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     A     -     -     -     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+|     B     -     -     -     #     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+      #     #     #     #     #     #     #            
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+      #     #     #     #     #     #     #            
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     A     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+|     B     -     -     -     #     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+      #     #     #     #     #     #     #            
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+      #     #     #     #     #     #     #            
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     A     -     -     -     -     #     -     #      
+
+|     B     -     -     -     #     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+      #     #     #     #     #     #     #            
+
+Type 'help' for avaliable commands.
+>>>> s
+
+You approach the Bat.
+It starts a fight!
+
+Type help for avaliable FIGHT commands
+>> attack
+
+You hit the Bat for 16 HP.
+The Bat's HP was reduced to 34
+
+The Bat retaliates! It hits you for 10 HP
+Your health is now 90
+>> attack
+
+You hit the Bat for 14 HP.
+The Bat's HP was reduced to 20
+
+The Bat retaliates! It hits you for 12 HP
+Your health is now 78
+>> attack
+
+You hit the Bat for 10 HP.
+The Bat's HP was reduced to 10
+
+The Bat retaliates! It hits you for 6 HP
+Your health is now 72
+>> attack
+
+You hit the Bat for 12 HP.
+The Bat's HP was reduced to -2
+
+The Bat has been defeated!
+You gained 14 Rubies
+
+=================================================
+
+      #     #     #     #     #     #     #            
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+|     A     -     -     -     #     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+      #     #     #     #     #     #     #            
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+The door locks behind you...
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     K     -     -     A     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     K     -     A     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     K     A     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> a
+
+A key was added to your inventory!
+You now have 1 keys
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     A     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     A     #     #     #     #      
+
+|     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     A     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     A     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     A     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     G     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     A     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> d
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     G     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     A     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> d
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     G     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     A     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     G     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     A     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     G     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     #     #     #     #     #     A     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     G     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     -     B     A     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> a
+
+You approach the Bat.
+It starts a fight!
+
+Type help for avaliable FIGHT commands
+>> attack
+
+You hit the Bat for 18 HP.
+The Bat's HP was reduced to 32
+
+The Bat retaliates! It hits you for 8 HP
+Your health is now 64
+>> attack
+
+You hit the Bat for 11 HP.
+The Bat's HP was reduced to 21
+
+The Bat retaliates! It hits you for 5 HP
+Your health is now 59
+>> heal
+Consumed a health pot and healed 30 HP
+Your HP is now89
+
+The Bat retaliates! It hits you for 6 HP
+Your health is now 83
+>> attack
+
+You hit the Bat for 13 HP.
+The Bat's HP was reduced to 8
+
+The Bat retaliates! It hits you for 13 HP
+Your health is now 70
+>> attack
+
+You hit the Bat for 11 HP.
+The Bat's HP was reduced to -3
+
+The Bat has been defeated!
+You gained 10 Rubies
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     G     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     -     A     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     G     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     A     -     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     G     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     A     -     -     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     G     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     A     -     -     -     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     G     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     A     -     -     B     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     G     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     A     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     G     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     A     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     G     -     -     #      
+
+#     -     A     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     A     -     -     G     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> d
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     A     -     G     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> d
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     A     G     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> d
+
+You approach the Goblin.
+It starts a fight!
+
+Type help for avaliable FIGHT commands
+>> attack
+
+You hit the Goblin for 11 HP.
+The Goblin's HP was reduced to 49
+
+The Goblin retaliates! It hits you for 8 HP
+Your health is now 62
+>> attack
+
+You hit the Goblin for 18 HP.
+The Goblin's HP was reduced to 31
+
+The Goblin retaliates! It hits you for 8 HP
+Your health is now 54
+>> attack
+
+You hit the Goblin for 17 HP.
+The Goblin's HP was reduced to 14
+
+The Goblin retaliates! It hits you for 6 HP
+Your health is now 48
+>> heal
+Consumed a health pot and healed 30 HP
+Your HP is now78
+
+The Goblin retaliates! It hits you for 8 HP
+Your health is now 70
+>> attack
+
+You hit the Goblin for 18 HP.
+The Goblin's HP was reduced to -4
+
+The Goblin has been defeated!
+You gained 24 Rubies
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     A     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> d
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     -     A     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> d
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     -     -     A     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     #     -     #     -     A     |      
+
+#     -     -     G     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> d
+
+=================================================
+
+#     #     #     #                                    
+
+#     K     B     #                                    
+
+#     B     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     G     G     #                                    
+
+#     -     -     #                                    
+
+#     -     A     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #                                    
+
+#     K     B     #                                    
+
+#     B     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     G     G     #                                    
+
+w#     -     A     #                                    
+
+#     -     -     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> 
+INVALID COMMAND
+>>>> w
+
+You approach the Goblin.
+It starts a fight!
+
+Type help for avaliable FIGHT commands
+>> attack
+
+You hit the Goblin for 17 HP.
+The Goblin's HP was reduced to 43
+
+The Goblin retaliates! It hits you for 5 HP
+Your health is now 65
+>> attack
+
+You hit the Goblin for 19 HP.
+The Goblin's HP was reduced to 24
+
+The Goblin retaliates! It hits you for 15 HP
+Your health is now 50
+>> attack
+
+You hit the Goblin for 16 HP.
+The Goblin's HP was reduced to 8
+
+The Goblin retaliates! It hits you for 11 HP
+Your health is now 39
+>> heal
+Consumed a health pot and healed 30 HP
+Your HP is now69
+
+The Goblin retaliates! It hits you for 5 HP
+Your health is now 64
+>> attack
+
+You hit the Goblin for 12 HP.
+The Goblin's HP was reduced to -4
+
+The Goblin has been defeated!
+You gained 18 Rubies
+
+=================================================
+
+#     #     #     #                                    
+
+#     K     B     #                                    
+
+#     B     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     G     A     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #                                    
+
+#     K     B     #                                    
+
+#     B     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     A     #                                    
+
+#     G     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #                                    
+
+#     K     B     #                                    
+
+#     B     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     A     #                                    
+
+#     -     -     #                                    
+
+#     G     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #                                    
+
+#     K     B     #                                    
+
+#     B     -     #                                    
+
+#     -     -     #                                    
+
+#     -     A     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     G     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #                                    
+
+#     K     B     #                                    
+
+#     B     -     #                                    
+
+#     -     A     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     G     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+w>>>> 
+INVALID COMMAND
+>>>> w
+
+=================================================
+
+#     #     #     #                                    
+
+#     K     B     #                                    
+
+#     B     A     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     G     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> a
+
+You approach the Bat.
+It starts a fight!
+
+Type help for avaliable FIGHT commands
+>> attack
+
+You hit the Bat for 14 HP.
+The Bat's HP was reduced to 36
+
+The Bat retaliates! It hits you for 14 HP
+Your health is now 50
+>> attack
+
+You hit the Bat for 13 HP.
+The Bat's HP was reduced to 23
+
+The Bat retaliates! It hits you for 14 HP
+Your health is now 36
+>> attack
+
+You hit the Bat for 12 HP.
+The Bat's HP was reduced to 11
+
+The Bat retaliates! It hits you for 9 HP
+Your health is now 27
+>> heal
+Consumed a health pot and healed 30 HP
+Your HP is now57
+
+The Bat retaliates! It hits you for 16 HP
+Your health is now 41
+>> attack
+
+You hit the Bat for 19 HP.
+The Bat's HP was reduced to -8
+
+The Bat has been defeated!
+You gained 5 Rubies
+
+=================================================
+
+#     #     #     #                                    
+
+#     K     B     #                                    
+
+#     A     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     G     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> w
+
+A key was added to your inventory!
+You now have 2 keys
+
+=================================================
+
+#     #     #     #                                    
+
+#     A     B     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     G     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #                                    
+
+#     -     B     #                                    
+
+#     A     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     G     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #                                    
+
+#     -     B     #                                    
+
+#     -     -     #                                    
+
+#     A     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     G     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #                                    
+
+#     -     B     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     A     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     G     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> d
+
+=================================================
+
+#     #     #     #                                    
+
+#     -     B     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     A     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     G     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #                                    
+
+#     -     B     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     A     #                                    
+
+#     -     -     #                                    
+
+#     G     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #                                    
+
+#     -     B     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     A     #                                    
+
+#     G     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #                                    
+
+#     -     B     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     G     A     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #                                    
+
+#     -     B     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     G     -     #                                    
+
+#     -     A     #                                    
+
+#     -     -     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #                                    
+
+#     -     B     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     -     -     #                                    
+
+#     G     -     #                                    
+
+#     -     -     #                                    
+
+#     -     A     #                                    
+
+#     #     ^     #                                    
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     G     -     -     -     -     #      
+
+#     -     -     #     -     #     -     -     |      
+
+#     -     -     -     -     G     -     -     #      
+
+#     -     -     #     #     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     B     -     -     #      
+
+#     #     #     #     #     #     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     A     -     -     -     #      
+
+#     #     #     #     ^     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     A     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     A     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     A     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     A     #     #     #     #      
+
+|     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     A     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     -     -     -     -     #      
+
+#     #     #     #     A     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     A     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     A     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     A     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     A     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     B     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     G     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> d
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     A     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     B     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     G     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> d
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     A     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     B     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     G     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> d
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     A     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     B     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     G     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     A     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     B     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     G     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     A     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     B     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     G     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     A     #      
+
+#     B     #     -     -     -     #     B     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     G     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+You approach the Bat.
+It starts a fight!
+
+Type help for avaliable FIGHT commands
+>> attack
+
+You hit the Bat for 14 HP.
+The Bat's HP was reduced to 36
+
+The Bat retaliates! It hits you for 14 HP
+Your health is now 27
+>> attack
+
+You hit the Bat for 18 HP.
+The Bat's HP was reduced to 18
+
+The Bat retaliates! It hits you for 15 HP
+Your health is now 12
+>> heal
+Consumed a health pot and healed 30 HP
+Your HP is now42
+
+The Bat retaliates! It hits you for 9 HP
+Your health is now 33
+>> heal
+Consumed a health pot and healed 30 HP
+Your HP is now63
+
+The Bat retaliates! It hits you for 11 HP
+Your health is now 52
+>> heal
+Consumed a health pot and healed 30 HP
+Your HP is now82
+
+The Bat retaliates! It hits you for 7 HP
+Your health is now 75
+>> heal
+Consumed a health pot and healed 30 HP
+Your HP was maxed out!
+Your HP is now100
+
+The Bat retaliates! It hits you for 8 HP
+Your health is now 92
+>> attack
+
+You hit the Bat for 11 HP.
+The Bat's HP was reduced to 7
+
+The Bat retaliates! It hits you for 9 HP
+Your health is now 83
+>> attack
+
+You hit the Bat for 10 HP.
+The Bat's HP was reduced to -3
+
+The Bat has been defeated!
+You gained 14 Rubies
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     A     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     G     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     A     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     G     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     A     #      
+
+#     -     #     #     G     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+s>>>> 
+INVALID COMMAND
+>>>> s
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     G     #     #     A     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     G     #     #     -     #      
+
+#     -     -     -     -     -     -     A     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     G     #     #     -     #      
+
+#     -     -     -     -     -     A     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     G     #     #     -     #      
+
+#     -     -     -     -     A     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     G     #     #     -     #      
+
+#     -     -     -     A     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+You approach the Goblin.
+It starts a fight!
+
+Type help for avaliable FIGHT commands
+>> heal
+Consumed a health pot and healed 30 HP
+Your HP was maxed out!
+Your HP is now100
+
+The Goblin retaliates! It hits you for 11 HP
+Your health is now 89
+>> attack
+
+You hit the Goblin for 10 HP.
+The Goblin's HP was reduced to 50
+
+The Goblin retaliates! It hits you for 10 HP
+Your health is now 79
+>> attack
+
+You hit the Goblin for 10 HP.
+The Goblin's HP was reduced to 40
+
+The Goblin retaliates! It hits you for 8 HP
+Your health is now 71
+>> attack
+
+You hit the Goblin for 14 HP.
+The Goblin's HP was reduced to 26
+
+The Goblin retaliates! It hits you for 15 HP
+Your health is now 56
+>> attack
+
+You hit the Goblin for 11 HP.
+The Goblin's HP was reduced to 15
+
+The Goblin retaliates! It hits you for 11 HP
+Your health is now 45
+>> attack
+
+You hit the Goblin for 10 HP.
+The Goblin's HP was reduced to 5
+
+The Goblin retaliates! It hits you for 8 HP
+Your health is now 37
+>> attack
+
+You hit the Goblin for 13 HP.
+The Goblin's HP was reduced to -8
+
+The Goblin has been defeated!
+You gained 18 Rubies
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     A     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     A     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     A     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     A     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     K     -     #     -     #      
+
+#     -     #     -     A     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+A key was added to your inventory!
+You now have 3 keys
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     A     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     A     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     A     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     A     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     A     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     A     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     A     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> 
+INVALID COMMAND
+>>>> d
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     A     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> d
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     A     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> d
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     A     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     A     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     A     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+INVALID COMMAND
+>>>> w
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     A     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     A     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.w
+>>>> 
+INVALID COMMAND
+>>>> w
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     A     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     A     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     #     #     #     #     #     A     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     -     A     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     -     A     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     -     A     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+aType 'help' for avaliable commands.
+>>>> 
+INVALID COMMAND
+>>>> a
+
+=================================================
+
+#     #     #     #     ^     #     #     #     #      
+
+#     -     -     -     A     -     -     -     #      
+
+#     -     #     #     #     #     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     B     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     -     -     -     #     -     #      
+
+#     -     #     #     -     #     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     A     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     A     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     A     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     -     -     -     -     #      
+
+#     #     #     #     A     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     -     A     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     -     A     -     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     -     A     -     -     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+#     #     #     #     -     #     #     #     #      
+
+|     A     -     -     -     -     -     -     #      
+
+#     #     #     #     -     #     #     #     #      
+
+                  #     -     #                        
+
+                  #     -     #                        
+a
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> 
+INVALID COMMAND
+>>>> a
+
+=================================================
+
+
+You slid the keys into the locks
+The door opens with a click
+As you go through the door, it locks behing you
+Again...
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+            #     #     -     #                        
+
+#     #     #     -     -     #     #     #     #      
+
+|     -     -     -     O     -     -     A     #      
+
+#     #     #     -     -     #     #     #     #      
+
+            #     #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+            #     #     -     #                        
+
+#     #     #     -     -     #     #     #     #      
+
+|     -     -     -     O     -     A     -     #      
+
+#     #     #     -     -     #     #     #     #      
+
+            #     #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+            #     #     -     #                        
+
+#     #     #     -     -     #     #     #     #      
+
+|     -     -     -     O     A     -     -     #      
+
+#     #     #     -     -     #     #     #     #      
+
+            #     #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> a
+
+Oh hello again
+
+Wondering how I got here? Well I won't tell you
+
+There's a shop in the above room that sells useful supplies
+
+You should see what they sell
+
+If you don't have money, check the room below me. It's full of foul monsters
+
+You should stock up on supplies before entering the room to my left. Once you enter the room on my left, you cannot turn back.
+
+Tip: If you defeat all the enemies in a room, leaving and re-entering the room will respawn the enemies
+Good luck
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+            #     #     -     #                        
+
+#     #     #     -     -     #     #     #     #      
+
+|     -     -     -     A     -     -     -     #      
+
+#     #     #     -     -     #     #     #     #      
+
+            #     #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> admin
+Admin priviledges activated
+>>>> a
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+            #     #     -     #                        
+
+#     #     #     -     -     #     #     #     #      
+
+|     -     -     A     -     -     -     -     #      
+
+#     #     #     -     -     #     #     #     #      
+
+            #     #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+            #     #     -     #                        
+
+#     #     #     -     -     #     #     #     #      
+
+|     -     A     -     -     -     -     -     #      
+
+#     #     #     -     -     #     #     #     #      
+
+            #     #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+                  #     ^     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+            #     #     -     #                        
+
+#     #     #     -     -     #     #     #     #      
+
+|     A     -     -     -     -     -     -     #      
+
+#     #     #     -     -     #     #     #     #      
+
+            #     #     -     #                        
+
+                  #     -     #                        
+
+                  #     -     #                        
+
+                  #     ^     #                        
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+The door locks behind you
+This is the final stretch
+                                                       
+
+                                                       
+
+                                                       
+
+                                                       
+
+#     #     #     #     #     #     #     #     #      
+
+|     -     T     -     T     -     T     A     #      
+
+#     #     #     #     #     #     #     #     #      
+
+                                                       
+
+                                                       
+
+                                                       
+
+                                                       
+
+Type 'help' for avaliable commands.
+>>>> a
+
+You approach the Troll.
+It starts a fight!
+
+Type help for avaliable FIGHT commands
+>> attack
+
+You hit the Troll for 10000 HP.
+The Troll's HP was reduced to -9925
+
+The Troll has been defeated!
+You gained 50 Rubies
+
+=================================================
+
+                                                       
+
+                                                       
+
+                                                       
+
+                                                       
+
+#     #     #     #     #     #     #     #     #      
+
+|     -     T     -     T     -     A     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+                                                       
+
+                                                       
+
+                                                       
+
+                                                       
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+                                                       
+
+                                                       
+
+                                                       
+
+                                                       
+
+#     #     #     #     #     #     #     #     #      
+
+|     -     T     -     T     A     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+                                                       
+
+                                                       
+
+                                                       
+
+                                                       
+
+Type 'help' for avaliable commands.
+a>>>> 
+INVALID COMMAND
+>>>> a
+
+You approach the Troll.
+It starts a fight!
+
+Type help for avaliable FIGHT commands
+>> attack
+
+You hit the Troll for 9998 HP.
+The Troll's HP was reduced to -9923
+
+The Troll has been defeated!
+You gained 45 Rubies
+
+=================================================
+
+                                                       
+
+                                                       
+
+                                                       
+
+                                                       
+
+#     #     #     #     #     #     #     #     #      
+
+|     -     T     -     A     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+                                                       
+
+                                                       
+
+                                                       
+
+                                                       
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+                                                       
+
+                                                       
+
+                                                       
+
+                                                       
+
+#     #     #     #     #     #     #     #     #      
+
+|     -     T     A     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+                                                       
+
+                                                       
+
+                                                       
+
+                                                       
+
+Type 'help' for avaliable commands.
+>>>> a
+
+You approach the Troll.
+It starts a fight!
+
+Type help for avaliable FIGHT commands
+>> attack
+
+You hit the Troll for 9995 HP.
+The Troll's HP was reduced to -9920
+
+The Troll has been defeated!
+You gained 45 Rubies
+
+=================================================
+
+                                                       
+
+                                                       
+
+                                                       
+
+                                                       
+
+#     #     #     #     #     #     #     #     #      
+
+|     -     A     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+                                                       
+
+                                                       
+
+                                                       
+
+                                                       
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+                                                       
+
+                                                       
+
+                                                       
+
+                                                       
+
+#     #     #     #     #     #     #     #     #      
+
+|     A     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+                                                       
+
+                                                       
+
+                                                       
+
+                                                       
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     -     O     A     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> a
+
+So... you made it to the end
+The treasure is within your reach, right in front of you
+At long last... I will be freed from my curse
+Go on, brave warrior, and take what is rightfully yours
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     -     A     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     A     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     A     #     #     #      
+
+|     -     -     -     C     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     A     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     A     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     A     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     -     -     -     A     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     A     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     A     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     A     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     A     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     -     -     -     #      
+
+#     #     #     #     -     A     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> w
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     A     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     -     -     -     #      
+
+#     #     #     #     -     A     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     A     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     A     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     A     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> s
+
+=================================================
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     -     -     C     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     A     -     #     #      
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     -     A     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+#     #     #     #     #     #     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+|     A     -     -     -     -     -     -     #      
+
+#     #     #     #     -     -     #     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     #     #     #     #     #     #     #      
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #     #     #     #     #     #     #     #      
+
+-     |     T     T     T     T     T     A     #      
+
+-     #     #     #     #     #     #     #     #      
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+Type 'help' for avaliable commands.
+>>>> a
+
+You approach the Troll.
+It starts a fight!
+
+Type help for avaliable FIGHT commands
+>> attack
+
+You hit the Troll for 9995 HP.
+The Troll's HP was reduced to -9920
+
+The Troll has been defeated!
+You gained 46 Rubies
+
+=================================================
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #     #     #     #     #     #     #     #      
+
+-     |     T     T     T     T     A     -     #      
+
+-     #     #     #     #     #     #     #     #      
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+Type 'help' for avaliable commands.
+>>>> a
+
+You approach the Troll.
+It starts a fight!
+
+Type help for avaliable FIGHT commands
+>> attack
+
+You hit the Troll for 9997 HP.
+The Troll's HP was reduced to -9922
+
+The Troll has been defeated!
+You gained 50 Rubies
+
+=================================================
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #     #     #     #     #     #     #     #      
+
+-     |     T     T     T     A     -     -     #      
+
+-     #     #     #     #     #     #     #     #      
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+Type 'help' for avaliable commands.
+>>>> a
+
+You approach the Troll.
+It starts a fight!
+
+Type help for avaliable FIGHT commands
+>> attack
+
+You hit the Troll for 9996 HP.
+The Troll's HP was reduced to -9921
+
+The Troll has been defeated!
+You gained 52 Rubies
+
+=================================================
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #     #     #     #     #     #     #     #      
+
+-     |     T     T     A     -     -     -     #      
+
+-     #     #     #     #     #     #     #     #      
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+Type 'help' for avaliable commands.
+>>>> a
+
+You approach the Troll.
+It starts a fight!
+
+Type help for avaliable FIGHT commands
+>> attack
+
+You hit the Troll for 9994 HP.
+The Troll's HP was reduced to -9919
+
+The Troll has been defeated!
+You gained 53 Rubies
+
+=================================================
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #     #     #     #     #     #     #     #      
+
+-     |     T     A     -     -     -     -     #      
+
+-     #     #     #     #     #     #     #     #      
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+Type 'help' for avaliable commands.
+>>>> a
+
+You approach the Troll.
+It starts a fight!
+
+Type help for avaliable FIGHT commands
+>> attack
+
+You hit the Troll for 9995 HP.
+The Troll's HP was reduced to -9920
+
+The Troll has been defeated!
+You gained 51 Rubies
+
+=================================================
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #     #     #     #     #     #     #     #      
+
+-     |     A     -     -     -     -     -     #      
+
+-     #     #     #     #     #     #     #     #      
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+-     #                                                
+
+Type 'help' for avaliable commands.
+>>>> a
+
+=================================================
+
+You escaped the dungeon with your new sword and armor
+You are revered in all lands as the greatest warrior alive
+Good job!
+
+
+Would you like to play again? [y/n]: y
+
+=================================================
+
+
+Welcome, brave adventurer.
+Your goal is to get to the end of this treacherous dungeon and collect the treasure there.
+
+Enemy and block index:
+
+A > Adventurer
+O > Old Man
+- > Blank Space
+| or ^ > Door
+# > Wall
+S > Shopkeeper
+C > Coin
+B > Bat
+T > Troll
+G > Goblin
+C > Treasure Chest
+
+=================================================
+
+      #     #     #     #     #     #     #            
+
+#     #     -     -     -     -     -     #     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     #     -     #      
+
+|     B     -     -     -     #     A     O     #      
+
+#     -     -     -     -     -     #     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     -     -     -     -     -     -     -     #      
+
+#     #     -     -     -     -     -     #     #      
+
+      #     #     #     #     #     #     #            
+
+Type 'help' for avaliable commands.
+>>>> inventory
+
+=================================================
+
+Keys > 0
+Rubies > 0
+Health Pots > 20
+Weapon: Wood Sword
+Armour: Rugged Clothes
+
+=================================================
+
+>>>> admin
+Admin priviledges activated
+>>>> inventory
+
+=================================================
+
+Keys > 9999
+Rubies > 9999
+Health Pots > 9999
+Weapon: Eternity
+Armour: Auric Armor
+
+=================================================
